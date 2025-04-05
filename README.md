@@ -49,7 +49,11 @@ Regressao-Logistica/
 
 4. Execute os notebooks:
 ```bash
-   jupyter notebook notebooks/
+   jupyter notebook
+```
+ou
+```bash
+   jupyter lab
 ```
 Ou abra pelo [Google Colab](https://colab.research.google.com/)
 
