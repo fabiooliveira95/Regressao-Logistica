@@ -62,6 +62,6 @@ Ou abra pelo Google Colab
 ## 📬 Contato
 
 Fique à vontade para entrar em contato ou conectar-se comigo:
-## Fabio Oliveira Araujo
+Fabio Oliveira Araujo
 - 🔗 [LinkedIn](https://www.linkedin.com/in/fabio-oliveira-araujo-cientista/)
 - 📧 fabiooliveira0067@gmail.com 
