@@ -51,7 +51,6 @@ Regressao-Logistica/
 ```bash
    jupyter notebook
 ```
-ou
 ```bash
    jupyter lab
 ```
