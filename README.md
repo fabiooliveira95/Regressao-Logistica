@@ -1,10 +1,7 @@
-
 # 🔍 Regressão Logística com Python – Projeto de Classificação
 
 Este repositório apresenta um projeto prático de **Regressão Logística**, técnica de aprendizado supervisionado usada para problemas de classificação binária. A aplicação foi desenvolvida com Python, utilizando bibliotecas populares de ciência de dados.
-
 ---
-
 ## 🎯 Objetivo
 
 Demonstrar, na prática, como utilizar a regressão logística para:
@@ -23,15 +20,12 @@ Demonstrar, na prática, como utilizar a regressão logística para:
 - [Scikit-learn](https://scikit-learn.org/)
 
 ### 📦 Instalação dos Pacotes
-
 ```bash
-pip install numpy pandas matplotlib scikit-learn
+   pip install numpy pandas matplotlib scikit-learn
 ```
-
 ---
 
 ## 📁 Estrutura do Projeto
-
 ```
 Regressao-Logistica/
 ├── data/           # Dados utilizados (CSV ou outros formatos)
@@ -41,24 +35,23 @@ Regressao-Logistica/
 ```
 
 ---
-
 ## ▶️ Como Executar
 
 1. Clone o repositório:
-   ```bash
+```bash
    git clone https://github.com/fabiooliveira95/Regressao-Logistica.git
-   ```
+```
 
-2. Navegue até a pasta:
-   ```bash
+3. Navegue até a pasta:
+```bash
    cd Regressao-Logistica
-   ```
+```
 
-3. Execute os notebooks:
-   ```bash
+4. Execute os notebooks:
+```bash
    jupyter notebook notebooks/
-   ```
-   Ou abra pelo [Google Colab](https://colab.research.google.com/)
+```
+Ou abra pelo [Google Colab](https://colab.research.google.com/)
 
 ---
 
