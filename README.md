@@ -59,8 +59,9 @@ Ou abra pelo Google Colab
   Métricas como Acurácia, Precisão, Recall
   Matriz de confusão e gráfico de decisão (se aplicável)
 
-📬 Contato
+## 📬 Contato
 
-Fábio Oliveira
-🔗 LinkedIn
-📧 fabiooliveira.ds@gmail.com 
+Fique à vontade para entrar em contato ou conectar-se comigo:
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/fabio-oliveira-araujo-cientista/)
+- 📧 fabiooliveira0067@gmail.com 
