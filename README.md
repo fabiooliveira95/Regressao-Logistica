@@ -1,3 +1,4 @@
+
 # 🔍 Regressão Logística com Python – Projeto de Classificação
 
 Este repositório apresenta um projeto prático de **Regressão Logística**, técnica de aprendizado supervisionado usada para problemas de classificação binária. A aplicação foi desenvolvida com Python, utilizando bibliotecas populares de ciência de dados.
@@ -23,44 +24,59 @@ Demonstrar, na prática, como utilizar a regressão logística para:
 
 ### 📦 Instalação dos Pacotes
 
-    bash 
-    pip install numpy pandas matplotlib scikit-learn
+```bash
+pip install numpy pandas matplotlib scikit-learn
+```
 
-📁 Estrutura do Projeto
+---
 
+## 📁 Estrutura do Projeto
+
+```
 Regressao-Logistica/
 ├── data/           # Dados utilizados (CSV ou outros formatos)
 ├── notebooks/      # Notebooks com código e análises
 ├── models/         # Modelos salvos (opcional)
 └── README.md       # Documentação do projeto
+```
 
-▶️ Como Executar 
+---
 
-1.Clone o repositório:
+## ▶️ Como Executar
 
-       bash
-       git clone https://github.com/fabiooliveira95/Regressao-Logistica.git
-       
-2.Navegue até a pasta: 
+1. Clone o repositório:
+   ```bash
+   git clone https://github.com/fabiooliveira95/Regressao-Logistica.git
+   ```
 
-      bash
-      cd Regressao-Logistica
-3.Executar notebooks do sistema operacional: 
-      
-      bash
-      jupyter notebook notebooks/
+2. Navegue até a pasta:
+   ```bash
+   cd Regressao-Logistica
+   ```
 
-Ou abra pelo Google Colab
+3. Execute os notebooks:
+   ```bash
+   jupyter notebook notebooks/
+   ```
+   Ou abra pelo [Google Colab](https://colab.research.google.com/)
 
-📊 Resultados Esperados
+---
 
-  Visualização dos dados
-  Treinamento do modelo
-  Métricas como Acurácia, Precisão, Recall
-  Matriz de confusão e gráfico de decisão (se aplicável)
+## 📊 Resultados Esperados
+
+- Visualização dos dados
+- Treinamento do modelo
+- Métricas como Acurácia, Precisão, Recall
+- Matriz de confusão e gráfico de decisão (se aplicável)
+
+---
 
 ## 📬 Contato
 
-Fique à vontade para entrar em contato ou conectar-se comigo:
-- 🔗 [LinkedIn](https://www.linkedin.com/in/fabio-oliveira-araujo-cientista/)
-- 📧 fabiooliveira0067@gmail.com 
+Fábio Oliveira  
+🔗 [LinkedIn](https://www.linkedin.com/in/fabio-oliveira-araujo-cientista/)  
+📧 fabiooliveira0067@gmail.com
+
+---
+
+⭐ Se este projeto te ajudou, deixe uma estrela no repositório!
